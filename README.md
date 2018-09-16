@@ -1,1 +1,1 @@
-# learning-git-2
+https://wnizialek.github.io/learning-git-2/
